@@ -1,0 +1,174 @@
+body{
+    width: 1000px;
+    height: 1160px;
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+#seccion1{
+    width: 300px;
+    height: 1160px;
+    background-color: #009DDC;
+    float: left;
+    text-align: ;
+    padding-left: 20px;
+    padding-right: 20px
+}
+hr{
+    border-bottom: 2px solid white;
+}
+
+#cont{
+    padding-left: 25px;
+    padding-right: px
+}
+
+#gray{
+    line-height: 0;
+    padding-left: 21px;
+}
+#drive{
+    line-height: 2;
+    padding-left: 21px;
+}
+#red{
+    padding-left: 30px;
+}
+#foto1{
+    width: 190px;
+    height: 190px;
+    border-radius: 150px;
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#for{
+padding-top: 10px;
+background: url(grad.png) 0px 5px no-repeat;
+padding-left: 30px;
+background-size:25px 25px;
+
+}
+#num {
+margin-bottom: 10px;
+padding-top: 5px;
+background: url(noun_Phone_1979753.png) 1px 4px no-repeat;
+padding-left: 25px;
+background-size:15px 15px;
+height: 16px;
+}
+
+#email{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding-top:0px;
+    background: url(noun_Email_2036705.png) 1px 4px no-repeat;
+    padding-left: 25px;
+    background-size:15px 15px;
+}
+
+#loc {
+    margin-top: 5px;
+    margin-bottom: 30px;
+    padding-top: 0px;
+    background: url(noun_Map%20Marker_318300.png) 0px 1px no-repeat;
+    padding-left: 25px;
+    background-size: 20px 20px;
+}
+
+#face {
+    padding-top: 9px;
+    background: url(noun_like_837131.png) 0px 4px no-repeat;
+    padding-left: 25px;
+    background-size: 20px 20px;
+}
+#ins {
+  padding-top: 5px;
+    background: url(noun_instagram_3015143.png) 0px 4px no-repeat;
+    padding-left: 25px;
+    background-size: 20px 20px;
+}
+
+a{
+    color: white;
+}
+a:visited{
+    color: white;
+    background-color: white;
+    text-decoration: none;
+}
+#pr1{
+    line-height: 3.5;
+}
+
+#pr2{
+    line-height: 2;
+}
+/* ---------------------------*/
+#seccion2{
+    width: 630px;
+    height: 1140px;
+    float: left;
+    padding-top: 2px;
+    padding-left: 30px;
+    background-color: white;
+}
+p.big{
+    line-height: 1.6;
+}
+p.medium{
+    line-height: 1.6;
+}
+p.small{
+    line-height: 1.6;
+}
+p.small2{
+    line-height: 1.6;
+}
+#habi{
+    height: 40px;
+    width: 300px;
+    float: left;
+}
+
+#cono{
+    height: 100px;
+    width: 300px;
+    float: left;
+}
+
+#exp{
+padding-top: 10px;
+background: url(maleta.png) 0px 5px no-repeat;
+padding-left: 25px;
+background-size:20px 20px;
+}
+
+#act{
+padding-top: 10px;
+background: url(noun_update_370571.png) 0px 7px no-repeat;
+padding-left: 25px;
+background-size:20px 20px;
+}
+#hab{
+    padding-top:15px;
+    background: url(gear.png) 1px 10px no-repeat;
+    padding-left: 25px;
+    background-size:20px 20px;
+}
+
+#con{
+    padding-top:15px;
+    background: url(noun_Medal_2586881.png) 1px 10px no-repeat;
+    padding-left: 25px;
+    background-size:20px 20px;
+}
+
+#foto10{
+    width: 20px;
+    height: 15px;
+}
+h4{
+    color: #009DDC;
+}
